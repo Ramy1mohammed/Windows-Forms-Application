@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Employee>
+    <Number>1</Number>
+    <Name>Ahmed</Name>
+    <Address>Cairo</Address>
+    <Salary>5800</Salary>
+  </Employee>
+  <Employee>
+    <Number>2</Number>
+    <Name>Amr</Name>
+    <Address>Alex</Address>
+    <Salary>8700</Salary>
+  </Employee>
+</DocumentElement>
